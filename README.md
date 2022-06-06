@@ -1,2 +1,2 @@
-# reposit-rio-da-emilly
+# repositorio-da-emilly
 aula do senai
